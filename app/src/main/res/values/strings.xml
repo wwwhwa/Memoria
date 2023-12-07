@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MemoriaActivity!</string>
+    <string name="app_name">Memoria</string>
+    <string name="start">Старт</string>
+    <string name="settings">Настройки</string>
+    <string name="highscore">Рекорды</string>
+    <string name="exit">Выход</string>
+    <string name="setTitle">Настройки</string>
+    <string name="Collection">Коллекция</string>
+    <string name="Color">Цвет фона</string>
+
+    <string-array name="Collections">
+        <item>ico</item>
+        <item>kokeshi</item>
+    </string-array>
+
+    <string-array name="CollectionsTitle">
+        <item>Аниме</item>
+        <item>Гейши</item>
+    </string-array>
+
+    <string-array name="Color">
+        <item>#000000</item>
+        <item>#5053FF</item>
+        <item>#782121</item>
+        <item>#568E6B</item>
+        <item>#606060</item>
+        <item>#FFFFFF</item>
+    </string-array>
+
+    <string-array name="ColorTitle">
+        <item>Черный</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Серый</item>
+        <item>Белый</item>
+    </string-array>
+
+</resources>
